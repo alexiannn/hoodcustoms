@@ -87,7 +87,7 @@ RunService:BindToRenderStep("AimLock", 0, function()
     wait(2)
     loadstring(game:HttpGet("https://raw.githubusercontent.com/alexiannn/main/main/sus"))()
     wait(2)
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/cotton12moneypooppee12/re/main/rea"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/alexiannn/sus/main/amongus"))()
     
     
     getgenv().OldAimPart = "UpperTorso"
