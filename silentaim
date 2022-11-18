@@ -1,4 +1,4 @@
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/cotton12moneypooppee12/cottonv1.2345678910/main/asdad"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/alexiannn/yessussy/main/sadasd"))()
 Aiming.TeamCheck(false)
 Aiming.FOV = 30
 Aiming.TargetPart = {"Head", "HumanoidRootPart"}
